@@ -1,0 +1,55 @@
+body
+{
+    background-color: #C5C7BC;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1
+{
+    background-color: #b6ae9f;
+    margin: 30px 40%;
+    border-radius: 50px;
+} 
+
+h2
+{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+div
+{
+    width: 100%;
+    margin: 150px auto;
+}
+
+p
+{
+    width: 25%;
+    margin: 30px auto;
+
+}
+
+button
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: #C5C7BC;
+    background-color: #b6ae9f;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+button:hover
+{
+    cursor: pointer;
+    background-color: #aba395;
+}
+
+button:active
+{
+    transform: translateY(1.5px);
+}
